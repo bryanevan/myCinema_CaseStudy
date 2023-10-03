@@ -12,7 +12,7 @@ const Case = () => {
     <div name="case" className="w-full bg-[#000c12] text-gray-300">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className=" w-full flex justify-center items-center flex-col mb-1">
+        <div className=" w-full flex justify-center items-center flex-col py-14 mb-1">
           <p className="text-7xl font-bold inline border-b-4 border-fuchsia-500 text-center">
             Case Studies
           </p>

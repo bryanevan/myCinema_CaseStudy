@@ -1,19 +1,16 @@
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
-import Scroll from "./components/Scroll"
-import Case from "./components/Case"
+import Scroll from "./components/Scroll";
+import Case from "./components/Case";
 
-
-function App() { 
+function App() {
   return (
-      <div>
+    <div>
       <Navbar />
       <Scroll />
       <Home />
       <Case />
-    
-      
-  </div>
-);
+    </div>
+  );
 }
 export default App;
